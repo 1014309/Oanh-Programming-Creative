@@ -10,7 +10,6 @@ long OnTime = 250;
 long OffTime = 750;   
 
 void setup() {
-  // set the digital pin as output:
   pinMode(ledPin, OUTPUT);   
   pinMode(buzzerPin, OUTPUT);
   servo.attach(11);   
@@ -38,3 +37,8 @@ void loop(){
     }
   }
 }
+
+references: https://learn.adafruit.com/multi-tasking-the-arduino-part-1/using-millis-for-timing
+            https://www.instructables.com/id/Arduino-Buzzer-With-LDR-and-LED/
+            https://xavisolemora.wordpress.com/2014/04/30/arduino-led-piezo-servo-pez-dispenser/
+            https://arduino.stackexchange.com/questions/35177/stop-leds-from-blinking
