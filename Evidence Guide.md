@@ -15,7 +15,14 @@ For this assignment, I collaborated with two other classmates and recreated an a
 - sound of the alarm
 - opening and closing of doors
 
-# Flashing Lights
-For the flashing lights, it was determined that a 3mm red LED would be used as it had a greater intensity. Whilst using a 5mm red LED would work perfectly for this project, it was also recommended that I looked into other alternatives such as RGB LEDS to recreate the flashing lights. 
+# RGB LEDs
+For the flashing lights, it was determined that a 3mm red LED would be used as it had a greater intensity. Whilst using a 3mm red LED would work perfectly for this project, it was also recommended that I looked into other alternatives such as RGB LEDS to recreate the flashing lights. 
 - 'RGB' is the acronym or abbreviated term for 'red, green, blue'
 - Colours other than red, green or blue can be created by adjusting the intensity of the red, green and blue hues
+#
+References
+- https://randomnerdtutorials.com/electronics-basics-how-do-rgb-leds-work/
+- https://howtomechatronics.com/tutorials/arduino/how-to-use-a-rgb-led-with-arduino/
+- https://www.youtube.com/watch?v=wqzfbImsrPE
+- https://www.teachmemicro.com/arduino-rgb-led-tutorial/
+- https://www.instructables.com/id/How-to-Blink-LED-Using-Arduino/
