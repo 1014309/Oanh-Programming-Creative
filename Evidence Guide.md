@@ -1,6 +1,5 @@
 # Minor Project Evidence Guide
-Oanh Pham
-1014309
+Oanh PHAM | 1014309
 
 # Aim
 The aim of our minor project was to create a creative response to Microcontroller systems. 
