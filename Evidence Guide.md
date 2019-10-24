@@ -27,16 +27,3 @@ References
 - https://www.teachmemicro.com/arduino-rgb-led-tutorial/
 - https://www.instructables.com/id/How-to-Blink-LED-Using-Arduino/
 
-#include <Servo.h>
-Servo servo;
-int angle = 10;
-
-int ledPin =  13;
-int buzzerPin = 12;
-int ledState = LOW; 
-unsigned long previousMillis = 0;
-long OnTime = 250;        
-long OffTime = 750;   
-
-void setup() {
-  // set the digit
